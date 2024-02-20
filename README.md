@@ -1,5 +1,3 @@
-### I download this [Dataset](https://github.com/123harshil/Alcohol-Consumption-Analysis/blob/main/russian_alcohol_consumption.csv) here.
-
 # Goal: Preferred area to run promotion a drink company
 Our company owns a chain Of stores across Russia that sell variety of alcohol drinks. The company recently ran a wine promotion in St Petersburg That was very successful due to the coast to the business They haven't been so much money to run in all the regions The marketing team would like to target 10 other regions that are similar buying habit to send Petersburg where they would expect the promotion to be similarly successful.
 
